@@ -4,9 +4,9 @@ Budgie App is a React-based expense tracking tool styled with Tailwind CSS. It a
 
 Frontend Installation:
 
-git clone git@github.com:rounitverma/finance-tracker.git
-cd budgie
-npm install
+git clone git@github.com:rounitverma/finance-tracker.git;
+cd budgie;
+npm install;
 npm start
 
 Tools used:
